@@ -1,4 +1,4 @@
-# vue-fullpage-personal
+# vue-fullpage-resume
 
 ## Project setup
 ```
